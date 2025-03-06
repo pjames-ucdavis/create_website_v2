@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: SPH 215
 ---
 
 # SPH 215: GIS in Public Health
